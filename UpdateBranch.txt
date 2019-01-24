@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I hpe this is much of a problem
+=======
+very bad approach
+>>>>>>> verybad
